@@ -1,0 +1,12 @@
+site_name: Huy Truong
+theme:
+  favicon: favicon2.ico
+  name: simple-blog
+  sidebar: false
+  navigation_depth: 0
+  title: false
+  components:
+    menu: false
+    preview: false
+    footer: false
+    site_name: false
