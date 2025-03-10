@@ -58,3 +58,7 @@ Research Gate: \[[https://www.researchgate.net/profile/Huy-Truong-27](https://ww
 
 ## News
 
+- [10.03.25] test2
+- [10.03.25]	 My academic CV has been moved to github.io
+- [10.03.25] My academic CV is relocated to github.io
+- [10.03.25] My academic CV is relocated to github.io
