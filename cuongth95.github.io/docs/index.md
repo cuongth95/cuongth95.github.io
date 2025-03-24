@@ -58,5 +58,4 @@ Research Gate: \[[https://www.researchgate.net/profile/Huy-Truong-27](https://ww
 
 ## News
 
-- [10.03.25]	 My academic CV has been moved to github.io
-- [21.03.25]	 New preprint out! Explore our work and the largest water distribution dataset: [paper](https://arxiv.org/abs/2503.17167) | [Ditec-wdn]([https://huggingface.co/datasets/rugds/ditec-wdn)
+- [21.03.25]	 New preprint out! Explore our work and the largest water distribution dataset: [paper](https://arxiv.org/abs/2503.17167) | [DiTEC-WDN](https://huggingface.co/datasets/rugds/ditec-wdn)
