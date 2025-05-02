@@ -1,5 +1,5 @@
    
-<img align="right" width="227" height="283" src="thc_portrait.jpg">
+<img align="right" width="226" height="340" src="thc_portrait_960x1438.jpeg">
 <a align="right" href="mailto:h.c.truong@rug.nl">
   <img src="https://cdn.simpleicons.org/mailboxdotorg/000000" alt="Button" width="32" height="32">
 </a>
