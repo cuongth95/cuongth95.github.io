@@ -1,7 +1,7 @@
    
-<img align="right" width="226" height="340" src="thc_portrait_960x1438.jpeg">
+<img align="right" width="222" height="256" src="thc_portrait_888x1024.png">
 <a align="right" href="mailto:h.c.truong@rug.nl">
-  <img src="https://cdn.simpleicons.org/mailboxdotorg/000000" alt="Button" width="32" height="32">
+  <img src="https://cdn.simpleicons.org/gmail" alt="Button" width="32" height="32">
 </a>
 <a align="right" href="https://www.linkedin.com/in/huy-cuong-truong">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Button" width="32" height="32">
@@ -23,11 +23,15 @@
 
 I am Huy Truong, a PhD Candidate at the Bernoulli Institute, University of Groningen (RuG). My current PhD research, funded by the Dutch Research Council (NWO), focuses on developing data-driven Graph Neural Networks (GNNs) to enhance decision-making in Digital Twin systems for Water Distribution Networks, under the supervision of Assistant Professor Victoria Degeler (University of Amsterdam) and Professor Alexander Lazovik (RuG). Before PhD, I graduated Master of Science in Artificial Intelligence at University of Maastricht, the Netherlands.
 
-As a *Deep Learning Enthusiast*, my research interests center on Neural Networks, especially for GNNs and brain-inspired architectures, Self-supervised Learning, and bio-inspired optimizations. 
+As a *Deep Learning Enthusiast*, my research interests center on Neural Networks, especially for GNNs, Self-supervised Learning, Test-Time Training, and ML applications. 
 
 ## Academic Service
-* Subreviewer for CIKM (2023-2024)
-* Subreviewer for IEEE Big Data 2024
+* Program Committee Member, International Conference on Service-Oriented Computing (ICSOC), 2025
+* Reviewer, Water Resource Research Journal, 2025
+* Reviewer, Journal of Infrastructure Systems, (2025-Present)
+* Reviewer, International Conference on Intelligent Environments, 2026
+* Subreviewer, CIKM, (2023-2024)
+* Subreviewer, IEEE Big Data, 2024
 
 ## Teaching @ RuG
 * Teaching Assitant - Neural Networks and Computational Intelligence (2023–2025)
@@ -37,13 +41,21 @@ As a *Deep Learning Enthusiast*, my research interests center on Neural Networks
 * Supervisor – Several BSc and MSc Thesis Projects (2023–Present)
 
 ## Recent publications
-Truong, H., Tello, A., Lazovik, A., & Degeler, V. (2024). Graph neural networks for pressure estimation in water distribution systems. Water Resources Research, 60(7), e2023WR036741. [https://doi.org/10.1029/2023WR036741](https://doi.org/10.1029/2023WR036741)
 
-Degeler, V., Hadadian, M., Karabulut, E., Lazovik, A., van het Loo, H., Tello, A., & Truong, H. (2024, October). DiTEC: Digital twin for evolutionary changes in water distribution networks. In International Symposium on Leveraging Applications of Formal Methods (pp. 62-82). Cham: Springer Nature Switzerland. [https://doi.org/10.1007/978-3-031-75390-9_5](https://doi.org/10.1007/978-3-031-75390-9_5)
+**Truong, H.**, Tello, A., Lazovik, A., & Degeler, V. (2025). Ditec-wdn: A large-scale dataset of hydraulic scenarios across multiple water distribution networks. Scientific Data, 12(1), 1733.[DOI](https://doi.org/10.1038/s41597-025-06026-0)
 
-Tello, A., Truong, H., Lazovik, A., & Degeler, V. (2024). Large-scale multipurpose benchmark datasets for assessing data-driven deep learning approaches for water distribution networks. Engineering Proceedings, 69(1), 50. [https://doi.org/10.3390/engproc2024069050](https://doi.org/10.3390/engproc2024069050)
+Melnikov, O., Dorofieiev, Y., Shakhnovskiy, Y., **Truong, H.**, & Degeler, V. (2025). A Multivariate Statistical Framework for Detection, Classification and Pre-localization of Anomalies in Water Distribution Networks. arXiv preprint arXiv:2512.15685.[DOI](
+https://doi.org/10.48550/arXiv.2512.15685)
 
+**Truong, H.**, Tello, A., Lazovik, A., & Degeler, V. (2024). Graph neural networks for pressure estimation in water distribution systems. Water Resources Research, 60(7), e2023WR036741. [DOI](https://doi.org/10.1029/2023WR036741)
+
+Degeler, V., Hadadian, M., Karabulut, E., Lazovik, A., van het Loo, H., Tello, A., & **Truong, H.** (2024, October). DiTEC: Digital twin for evolutionary changes in water distribution networks. In International Symposium on Leveraging Applications of Formal Methods (pp. 62-82). Cham: Springer Nature Switzerland. [DOI](https://doi.org/10.1007/978-3-031-75390-9_5)
+
+Tello, A., **Truong, H.**, Lazovik, A., & Degeler, V. (2024). Large-scale multipurpose benchmark datasets for assessing data-driven deep learning approaches for water distribution networks. Engineering Proceedings, 69(1), 50. [DOI](https://doi.org/10.3390/engproc2024069050)
+
+<!---
 ## Contact
+
 Email: \[[h.c.truong@rug.nl](mailto:h.c.truong@rug.nl)\]
 
 Github: \[[https://github.com/cuongth95](https://github.com/cuongth95)\]
@@ -55,7 +67,9 @@ Hugging Face: \[[https://huggingface.co/huy-truong](https://huggingface.co/huy-t
 LinkedIn: \[[https://www.linkedin.com/in/huy-cuong-truong](https://www.linkedin.com/in/huy-cuong-truong)\]
 
 Research Gate: \[[https://www.researchgate.net/profile/Huy-Truong-27](https://www.researchgate.net/profile/Huy-Truong-27)\]
+-->
 
 ## News
-
+- [21.01.26] Invited talk on my latest research at [APPIS26, Las Palmas de Gran Canaria, Spain](https://sites.google.com/view/appis-conference/home)
+- [21.09.25] Presented Test-Time Training for GNNs at the [CS Joint Seminar 2025, Sassari, Sardegna, Italy](https://www.iaas.uni-stuttgart.de/en/department-service-computing/events/computer-science-joint-seminar-2025/)
 - [21.03.25]	 New preprint out! Explore our work and the largest water distribution dataset: [paper](https://arxiv.org/abs/2503.17167) | [DiTEC-WDN](https://huggingface.co/datasets/rugds/ditec-wdn)
