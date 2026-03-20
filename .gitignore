@@ -2,3 +2,6 @@
 LICENSE
 __pycache__
 site/
+.idea
+.venv
+.vscode
