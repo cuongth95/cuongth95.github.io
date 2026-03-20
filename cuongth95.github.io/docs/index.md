@@ -41,11 +41,9 @@ As a *Deep Learning Enthusiast*, my research interests center on Neural Networks
 * Supervisor – Several BSc and MSc Thesis Projects (2023–Present)
 
 ## Recent publications
+Melnikov, O., Dorofieiev, Y., Shakhnovskiy, Y., **Truong, H.**, \& Degeler, V. (2026). A Multivariate Statistical Framework for Detection, Classification and Pre-localization of Anomalies in Water Distribution Networks. Expert Systems with Applications, 131450.[DOI](https://doi.org/10.1016/j.eswa.2026.131450)
 
 **Truong, H.**, Tello, A., Lazovik, A., & Degeler, V. (2025). Ditec-wdn: A large-scale dataset of hydraulic scenarios across multiple water distribution networks. Scientific Data, 12(1), 1733.[DOI](https://doi.org/10.1038/s41597-025-06026-0)
-
-Melnikov, O., Dorofieiev, Y., Shakhnovskiy, Y., **Truong, H.**, & Degeler, V. (2025). A Multivariate Statistical Framework for Detection, Classification and Pre-localization of Anomalies in Water Distribution Networks. arXiv preprint arXiv:2512.15685.[DOI](
-https://doi.org/10.48550/arXiv.2512.15685)
 
 **Truong, H.**, Tello, A., Lazovik, A., & Degeler, V. (2024). Graph neural networks for pressure estimation in water distribution systems. Water Resources Research, 60(7), e2023WR036741. [DOI](https://doi.org/10.1029/2023WR036741)
 
@@ -70,6 +68,7 @@ Research Gate: \[[https://www.researchgate.net/profile/Huy-Truong-27](https://ww
 -->
 
 ## News
+- [08.04.26] Invited to present on Deep Learning for Water Distribution Network Monitoring at the Seasonal Seminar, University of Groningen (Upcoming)
 - [21.01.26] Invited talk on my latest research at [APPIS26, Las Palmas de Gran Canaria, Spain](https://sites.google.com/view/appis-conference/home)
 - [21.09.25] Presented Test-Time Training for GNNs at the [CS Joint Seminar 2025, Sassari, Sardegna, Italy](https://www.iaas.uni-stuttgart.de/en/department-service-computing/events/computer-science-joint-seminar-2025/)
 - [21.03.25]	 New preprint out! Explore our work and the largest water distribution dataset: [paper](https://arxiv.org/abs/2503.17167) | [DiTEC-WDN](https://huggingface.co/datasets/rugds/ditec-wdn)
