@@ -68,7 +68,7 @@ Research Gate: \[[https://www.researchgate.net/profile/Huy-Truong-27](https://ww
 -->
 
 ## News
-- [08.04.26] Invited to present on Deep Learning for Water Distribution Network Monitoring at the Seasonal Seminar, University of Groningen (Upcoming)
+- [08.04.26] Invited to talk at the [Seasonal Seminar, University of Groningen, NL](https://www.rug.nl/research/bernoulli/calendar/2026/20260408-spring-seasonal-seminar) (Upcoming)
 - [21.01.26] Invited talk on my latest research at [APPIS26, Las Palmas de Gran Canaria, Spain](https://sites.google.com/view/appis-conference/home)
 - [21.09.25] Presented Test-Time Training for GNNs at the [CS Joint Seminar 2025, Sassari, Sardegna, Italy](https://www.iaas.uni-stuttgart.de/en/department-service-computing/events/computer-science-joint-seminar-2025/)
 - [21.03.25]	 New preprint out! Explore our work and the largest water distribution dataset: [paper](https://arxiv.org/abs/2503.17167) | [DiTEC-WDN](https://huggingface.co/datasets/rugds/ditec-wdn)
